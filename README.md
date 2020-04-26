@@ -1,0 +1,2 @@
+# kadirinprojeleri
+yaptığım uygulamaları paylaşmak
