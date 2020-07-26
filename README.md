@@ -1,2 +1,1 @@
-# kadirinprojeleri
-yaptığım uygulamaları paylaşmak
+
